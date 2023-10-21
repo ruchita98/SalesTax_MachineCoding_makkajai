@@ -1,4 +1,5 @@
 # SalesTax_MachineCoding_makkajai
+# for next line , put double space  or <br /> after the line
 This is the solution of the machine coding question asked in Makkajai
 
 ## Problem 1: Sales Tax
@@ -58,3 +59,7 @@ Output 3:
 1 imported box of chocolates: 11.85  
 Sales Taxes: 6.70  
 Total: 74.68  
+
+## OOP concept learnings:
+1. whenever derived class overriding parent class, that method needs to be declared in derived class interface
+2. override keyword is not needed for parent's method overriding in child class
