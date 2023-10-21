@@ -1,6 +1,6 @@
-# SalesTax_MachineCoding_makkajai
-# for next line , put double space  or <br /> after the line
-This is the solution of the machine coding question asked in Makkajai
+# SalesTax_MachineCoding_makkajai  
+for next line , put double space  or <br /> after the line
+This is the solution of the machine coding question asked in Makkajai (https://docs.google.com/document/u/0/d/1rejug6Vr5rWsD_ZBtPX7EvLVw385BDhx9NdqhvAio8U/mobilebasic)
 
 ## Problem 1: Sales Tax
 
